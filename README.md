@@ -31,3 +31,26 @@ This is the personal portfolio website of Mohab Zain, a web developer and progra
 
 Copyright © 2023 Mohab Zain. All rights reserved.
 
+# Mohab Zain's Portfolio
+
+## Visual Design
+
+(... Same as before ...)
+
+## Interactivity and Animations
+
+- **Toggleable navbar:** The navbar can be toggled open and closed by clicking the menu icon.
+- **Smooth scrolling to sections:** Clicking navigation links smoothly scrolls the page to the corresponding sections.
+- **Sticky navigation:** The navbar sticks to the top of the viewport when scrolling down.
+- **Scroll reveal animations:** Elements are revealed with animations as they come into view while scrolling.
+- **Animated text:** The text in the `.multiple-text` element cycles through different strings in a typing animation.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- ScrollReveal.js library (for scroll-based animations)
+- Typed.js library (for animated text)
+
+(... Rest of the file as before ...)
